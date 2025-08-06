@@ -129,6 +129,11 @@ python -m src.decipher.cygnus_final_analysis sinal_gleamx.txt
 </a>
 </p>
 
+🔥Próximas melhorias(Em breve):
+  ° Aprendizagem por Reforço Colaborativo
+  ° Meta-Aprendizagem Trans-Sinal
+  ° Autoaperfeiçoamento Infinito
+
 <p align="center">
 Desenvolvido com 🧠 e ☕ por <a href="https://github.com/JhonyJPHR">JhonyJPHR</a>
 </p>
