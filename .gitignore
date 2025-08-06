@@ -1,0 +1,21 @@
+# Ambiente Virtual
+venv/
+.venv/
+
+# Arquivos de Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos gerados e dados grandes
+*.keras
+*.txt
+*.png
+*.csv
+*.fil
+
+# Exceção para o dataset original
+!data/HTRU_2.csv
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
